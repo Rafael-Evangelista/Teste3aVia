@@ -1,0 +1,104 @@
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\obj\Debug\Avalicao3AVIA.csprojResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\ApplicationInsights.config
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\csc.exe
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\vbc.exe
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\VBCSCompiler.exe
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Avalicao3AVIA.dll.config
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Avalicao3AVIA.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Avalicao3AVIA.pdb
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\EntityFramework.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\EntityFramework.SqlServer.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.Web.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Helpers.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Mvc.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Razor.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.Razor.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\EntityFramework.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\EntityFramework.SqlServer.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.Web.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Razor.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.Razor.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Helpers.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Mvc.xml
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\obj\Debug\Avalicao3AVIA.dll
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\obj\Debug\Avalicao3AVIA.pdb
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\obj\Debug\Avalicao3AVIA.Migrations.BDTeste.resources
+C:\Users\rafael\Documents\Visual Studio 2015\Projects\Avalicao3AVIA\Avalicao3AVIA\obj\Debug\Avalicao3AVIA.csproj.GenerateResource.Cache
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\ApplicationInsights.config
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\csc.exe
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\vbc.exe
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\VBCSCompiler.exe
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Avalicao3AVIA.dll.config
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Avalicao3AVIA.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Avalicao3AVIA.pdb
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\EntityFramework.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\EntityFramework.SqlServer.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.Web.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Helpers.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Mvc.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Razor.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.Razor.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\EntityFramework.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\EntityFramework.SqlServer.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.Web.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Razor.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Webpages.Razor.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Helpers.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\bin\System.Web.Mvc.xml
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\obj\Debug\Avalicao3AVIA.csprojResolveAssemblyReference.cache
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\obj\Debug\Avalicao3AVIA.Migrations.BDTeste.resources
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\obj\Debug\Avalicao3AVIA.csproj.GenerateResource.Cache
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\obj\Debug\Avalicao3AVIA.dll
+C:\Users\rafael\Desktop\Avalicao3AVIA\Avalicao3AVIA\obj\Debug\Avalicao3AVIA.pdb
